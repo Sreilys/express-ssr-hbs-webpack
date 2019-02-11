@@ -16,7 +16,7 @@ module.exports = {
       {
         test: /\.s?css$/, // This will match either .scss or .css
         use: [
-        'sass-loader'
+          'sass-loader'
         ]
       }
     ]

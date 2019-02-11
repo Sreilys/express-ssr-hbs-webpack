@@ -22,9 +22,5 @@
     "morgan": "^1.9.1",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0"
-  },
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "rimraf": "^2.6.3"
   }
 }
